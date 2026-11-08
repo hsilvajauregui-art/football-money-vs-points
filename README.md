@@ -105,4 +105,4 @@ Table and column names are in Spanish: `puntos` = points, `valor_plantilla` = sq
 
 ## Contact
 
-Héctor Silva · Ciudad Juárez, Mexico · [LinkedIn](#) <!-- add your LinkedIn URL -->
+Héctor Silva · Ciudad Juárez, Mexico · www.linkedin.com/in/héctor-silva-1445a8261 <!-- add your LinkedIn URL -->
